@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BMITest",
+    "\\BMITest\\src",
+    "\\BMITest\\src\\io",
+    "\\BMITest\\src\\io\\code"
   ],
-  "SelectedNode": "\\C:\\Study\\Git\\Hoang",
+  "SelectedNode": "\\BMITest\\src\\io\\code\\MainTest.java",
   "PreviewInSolutionExplorer": false
 }
