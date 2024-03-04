@@ -6,8 +6,8 @@ public class MainTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, Cocogoat");
 
-		int a = 5;
-		if (a < 5)
+		int a = 6;
+		if (a > 5)
 		{
 			system.out.println("Hi");
 		}
